@@ -1,6 +1,6 @@
 sprout-base
 ===============
 
-[![Build Status](https://travis-ci.org/pivotal-sprout/sprout-base.svg?branch=master)](https://travis-ci.org/pivotal-sprout/sprout-base)
+A fork of sprout-base from Pivotal labs without bash_it.
 
 A handful of things every Sprout recipe needs.
